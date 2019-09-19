@@ -87,7 +87,7 @@ print(add_liar(3,4))
 
 
 # 8. CHALLENGE: Now that you've written all these functions, try combining them. what would happen if you tried to call repeat_it(work_it("Stressed"), 3) ?
-
+print("your mom big gay")
 
 
 
